@@ -13,7 +13,6 @@ class Tarefa {
     	
     }
     static mapping ={
-    	
-
+    	sort dataFim:'asc'
     }
 }
